@@ -334,7 +334,3 @@ This project has 11 lua files. For convenience, I made all game functions into s
     * **_wait_restart(dt, seconds)__* used in **_love.update()_** to create a time lapse of 3 seconds when the player is defeated.
 
     * **_wait_big_bullet_w3(dt, seconds)_** used in **_big_enemy_shot(dt)_** (ebullets.lua) to create a time lapse of 5 seconds when the big enemies shoot 20 bullets.
-
-#### 4- Special Thanks
-
- I want to thank the entire staff of the CS50's Introduction to Computer Science, this course changed my life completely, was very challenging but I am finally here, I am 27 years old and I am a musician by profession, I started this course because I wanted to try this other area that I love and thanks to this course I am determined to continue studying to someday become a great programmer. Thank you again.
